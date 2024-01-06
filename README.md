@@ -97,7 +97,7 @@ The database schema includes a table named `Employees` with fields such as `Empl
 
 ## ScreenShot
 [![MasterHead](https://akshay-kumar93.web.app/img/portfolio/CRUD.png
-)](https://akshaylalti.io)
+)](https://akshay-kumar93.web.app/)
 ## Contributing
 
 Feel free to contribute to the project by opening issues or submitting pull requests. Follow the [Contributing Guidelines](CONTRIBUTING.md) for more details.
