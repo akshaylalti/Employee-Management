@@ -5,7 +5,7 @@ This project demonstrates a simple Employee Management system with CRUD (Create,
 - Angular (Frontend)
 - ASP.NET Core API (Backend)
 - SQL Server with Entity Framework (Database)
-- 
+  
 ## Table of Contents
 
 - [Features](#features)
